@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\JStest\\diff"
+		},
+		{
+			"path": "..\\..\\react1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "diff",
+		"files.associations": {
+			"iostream": "cpp",
+			"iosfwd": "cpp"
+		}
+	}
+}

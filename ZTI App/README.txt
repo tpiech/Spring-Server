@@ -1,0 +1,1 @@
+musiałem usunąć NodeModules aby się zmieścił rozmiar pliku, trzeba je doinstalować za pomocą npm-install
